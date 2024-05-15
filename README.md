@@ -35,6 +35,7 @@ Deals with adding things-to-do around your server.
 Deals with a new system that adds to the gameplay of your server. ie. Currency
 
 - [Death System by Dorn3r](https://github.com/dorn3r/rebar-death)
+- [Currency System by Stuyk](https://github.com/Stuyk/rebar-currency)
 
 ## Utility
 
