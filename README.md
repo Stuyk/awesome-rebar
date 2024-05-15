@@ -1,6 +1,8 @@
 # Awesome Rebar [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome)
 
-> A non-curated list of resources and plugins for the [https://github.com/Stuyk/rebar-altv](Rebar Framework for alt:V)
+> A non-curated list of resources and plugins for the Rebar framework built on the alt:V platform.
+
+[Rebar Framework](https://github.com/Stuyk/rebar-altv) is an open source framework for the [alt:V GTA:V Multiplayer Client](https://altv.mp/).
 
 ## Contents
 
