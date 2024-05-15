@@ -1,32 +1,56 @@
-# awesome-list [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome)
+# Awesome Rebar [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome)
 
-[![GitHub](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen/) &nbsp; [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/brandonhimpfen) &nbsp; [![PayPal](https://srv-cdn.himpfen.io/badges/paypal/paypal-flat.svg)](https://paypal.me/brandonhimpfen) &nbsp; [![Stripe](https://srv-cdn.himpfen.io/badges/stripe/stripe-flat.svg)](https://tinyurl.com/e8ymxdw3)
-
-> A curated list of resources for
+> A non-curated list of resources and plugins for the [https://github.com/Stuyk/rebar-altv](Rebar Framework for alt:V)
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Authorization](#authorization)
+- [Character](#character)
+- [Jobs](#jobs)
+- [Systems](#systems)
+- [Utility](#utility)
 
-## Section
+## Authorization
 
-About this section. Optional. Keep this short and focus on the list.
+Deals with authorization, oAuth2, and account systems.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Email & Password Auth by Stuyk](https://github.com/Stuyk/rebar-auth)
+- [Discord Auth by unfloned](https://github.com/unfloned/rebar-discord-auth/)
 
-## Another Section
+## Character
 
-### Subsection
+Deals with character customization, selection, etc.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Character Select by Stuyk](https://github.com/Stuyk/rebar-character-select)
+- [Character Creator by Stuyk](https://github.com/Stuyk/rebar-character-creator)
 
+## Jobs
+
+Deals with adding things-to-do around your server.
+
+## Systems
+
+Deals with a new system that adds to the gameplay of your server. ie. Currency
+
+- [Death System by Dorn3r](https://github.com/dorn3r/rebar-death)
+
+## Utility
+
+Deals with adding scripting related utility to the server.
+
+- [Webhooks by R3DIANCE](https://github.com/R3DIANCE/rebar-webhooks)
+- [Keybinds by floydya](https://github.com/floydya/rebar-keybinds)
+- [Hotkeys by NightOwl07](https://github.com/NightOwl07/rebar-hotkeys)
+
+## Visual
+
+Visual enhancements for the players to see. Such as huds, notifications, chat, etc.
+
+- [Notifications by Booster1212](https://github.com/Booster1212/rebar-notifications)
 
 ## Contribute
 
-Contributions are welcome!
+Contributions are welcome, make sure to open a pull request and adhere to the categories above.
 
 ## License
 
