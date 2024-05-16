@@ -53,7 +53,7 @@ Visual enhancements for the players to see. Such as huds, notifications, chat, e
 
 ## Contribute
 
-Contributions are welcome, make sure to open a pull request and adhere to the categories above.
+Contributions are welcome, make sure to open a pull request and adhere to the categories above. If your script is not open source then it will not be allowed on this list.
 
 ## License
 
