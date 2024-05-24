@@ -11,6 +11,7 @@
 - [Jobs](#jobs)
 - [Systems](#systems)
 - [Utility](#utility)
+- [Visual](#visual)
 - [World](#world)
 
 ## Authorization
