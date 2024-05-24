@@ -11,6 +11,7 @@
 - [Jobs](#jobs)
 - [Systems](#systems)
 - [Utility](#utility)
+- [World](#world)
 
 ## Authorization
 
@@ -52,6 +53,13 @@ Deals with adding scripting related utility to the server.
 Visual enhancements for the players to see. Such as huds, notifications, chat, etc.
 
 - [Notifications by Booster1212](https://github.com/Booster1212/rebar-notifications)
+
+## World
+
+World enhancements for changing weather, time, etc.
+
+- [Simple Time](https://github.com/Stuyk/rebar-simple-time)
+- [Simple Weather](https://github.com/Stuyk/rebar-simple-weather)
 
 ## Contribute
 
