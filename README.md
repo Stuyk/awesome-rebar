@@ -40,6 +40,10 @@ Deals with a new system that adds to the gameplay of your server. ie. Currency
 - [Currency System by Stuyk](https://github.com/Stuyk/rebar-currency)
 - [Chat by Stuyk](https://github.com/Stuyk/rebar-chat)
 - [Save State by Stuyk](https://github.com/Stuyk/rebar-save-state)
+- [Starter inventory plugin by mafineeek](https://github.com/mafineeek/rebar-inventory-starter)
+- [Roleplay commands by mafineeek](https://github.com/mafineeek/rebar-rp-commands)
+- [Animations menu by mafineeek](https://github.com/mafineeek/rebar-basic-animations-menu)
+- [Basic Vehicles by mafineeek](https://github.com/mafineeek/rebar-basic-vehicles-api)
 
 ## Utility
 
@@ -48,6 +52,7 @@ Deals with adding scripting related utility to the server.
 - [Webhooks by R3DIANCE](https://github.com/R3DIANCE/rebar-webhooks)
 - [Keybinds by floydya](https://github.com/floydya/rebar-keybinds)
 - [Hotkeys by NightOwl07](https://github.com/NightOwl07/rebar-hotkeys)
+- [Autoincrement API by mafineeek](https://github.com/mafineeek/rebar-autoincrement-api)
 
 ## Visual
 
