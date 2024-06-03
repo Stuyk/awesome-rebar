@@ -65,7 +65,7 @@ Visual enhancements for the players to see. Such as huds, notifications, chat, e
 World enhancements for changing weather, time, etc.
 
 - [Simple Time](https://github.com/Stuyk/rebar-simple-time)
-- [Simple Weather](https://github.com/Stuyk/rebar-simple-weather)
+- [Simple Weather](https://github.com/Stuyk/simple-weather)
 
 ## Contribute
 
