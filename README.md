@@ -44,6 +44,7 @@ Deals with a new system that adds to the gameplay of your server. ie. Currency
 - [Roleplay commands by mafineeek](https://github.com/mafineeek/rebar-rp-commands)
 - [Animations menu by mafineeek](https://github.com/mafineeek/rebar-basic-animations-menu)
 - [Basic Vehicles by mafineeek](https://github.com/mafineeek/rebar-basic-vehicles-api)
+- [Ascended-Fuel by ASCENDED-TEAM](https://github.com/ASCENDED-Team/asc-fuel)
 
 ## Utility
 
@@ -53,12 +54,14 @@ Deals with adding scripting related utility to the server.
 - [Keybinds by floydya](https://github.com/floydya/rebar-keybinds)
 - [Hotkeys by NightOwl07](https://github.com/NightOwl07/rebar-hotkeys)
 - [Autoincrement API by mafineeek](https://github.com/mafineeek/rebar-autoincrement-api)
+- [ASCENDED-Camera by ASCENDED-TEAM](https://github.com/ASCENDED-Team/asc-camera)
 
 ## Visual
 
 Visual enhancements for the players to see. Such as huds, notifications, chat, etc.
 
-- [Notifications by Booster1212](https://github.com/Booster1212/rebar-notifications)
+- [Ascended-Notifications by ASCENDED-TEAM](https://github.com/ASCENDED-Team/asc-notifications)
+- [Ascended-HUD by ASCENDED-TEAM](https://github.com/ASCENDED-Team/asc-hud)
 
 ## World
 
