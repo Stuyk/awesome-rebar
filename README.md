@@ -69,7 +69,9 @@ World enhancements for changing weather, time, etc.
 
 - [Simple Time](https://github.com/Stuyk/rebar-simple-time)
 - [Simple Weather](https://github.com/Stuyk/simple-weather)
-
+- [Realworld Weather](https://github.com/KoronGIT/realworld-weather)
+- [Realworld Commodities Price](https://github.com/KoronGIT/realworld-commoditiesprice)
+  
 ## Contribute
 
 Contributions are welcome, make sure to open a pull request and adhere to the categories above. If your script is not open source then it will not be allowed on this list.
