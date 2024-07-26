@@ -55,6 +55,7 @@ Deals with adding scripting related utility to the server.
 - [Hotkeys by NightOwl07](https://github.com/NightOwl07/rebar-hotkeys)
 - [Autoincrement API by mafineeek](https://github.com/mafineeek/rebar-autoincrement-api)
 - [ASCENDED-Camera by ASCENDED-TEAM](https://github.com/ASCENDED-Team/asc-camera)
+- [Confirm Dialog by floydya](https://github.com/floydya/rebar-confirm-dialog)
 
 ## Visual
 
